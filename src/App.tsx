@@ -34,6 +34,7 @@ function App() {
       <p>rebase check 4</p>
       <p>rebase check 5</p>
       <p>rebase check 6</p>
+      <p>branch feature 1</p>
       <p>cherry-pick</p>
       <p>from "from-master"</p>
       <p>from "from-master 2"</p>
