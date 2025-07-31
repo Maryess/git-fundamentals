@@ -30,6 +30,8 @@ function App() {
       </div>
       <p>rebase check</p>
       <p>rebase check 2</p>
+      <p>rebase check 3</p>
+      <p>rebase check 4</p>
       <p>cherry-pick</p>
       <h1>Vite + React</h1>
       <div className="card">
