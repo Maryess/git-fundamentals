@@ -17,7 +17,7 @@ function App() {
         </ul>
       </nav>
       <div>
-        <a href="https://vite.dev" target="_blank">
+        <a href="https://react.dev" target="_blank">
           <img
             src={reactSecondLogo}
             className="logo react"
