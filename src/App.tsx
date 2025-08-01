@@ -7,14 +7,12 @@ function App() {
   const [count, setCount] = useState(0);
 
   return (
-    <>
+    <div>
       <nav className="nav">
-        <ul>
-          <li>Home</li>
-          <li>Auth</li>
-          <li>Settings</li>
-          <li>Profile</li>
-        </ul>
+        <li>Home</li>
+        <li>Auth</li>
+        <li>Settings</li>
+        <li>Profile</li>
       </nav>
       <div>
         <a href="https://react.dev" target="_blank">
@@ -50,7 +48,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-    </>
+    </div>
   );
 }
 
