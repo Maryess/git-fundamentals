@@ -36,6 +36,7 @@ function App() {
       <p>rebase check 6</p>
       <p>cherry-pick</p>
       <p>from "from-master"</p>
+      <p>from "from-master 2"</p>
       <h1>Vite + React</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
